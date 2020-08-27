@@ -1,0 +1,27 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "just-tech-news",
+  "main": "server.js",
+  "dependencies": {
+    "connect-session-sequelize": "^7.0.1",
+    "express-handlebars": "^5.1.0",
+    "express-session": "^1.17.1",
+    "i": "^0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chulopapi/just-tech-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chulopapi/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/chulopapi/just-tech-news#readme"
+}
